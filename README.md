@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of the Python code to change the schema for a shapefile.
+Project consists of the Python code to change the schema for a shapefile. It has useful information
 <br />
 
 
