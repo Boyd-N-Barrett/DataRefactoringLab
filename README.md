@@ -18,8 +18,8 @@ Project consists of the Python code to change the schema for a shapefile. It has
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Compare the schema of two feature classes: <br/>
+<img src="https://imgur.com/ul4WFME.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
