@@ -4,9 +4,8 @@
 <h2>Description</h2>
 I successfully conceptualized, developed, executed, and documented a data pipeline in Python for the Water Protection and Sustainability Branch, Ministry of Water, Land, and Resource Stewardship. I defined data requirements, selected appropriate tools and modules, and built and tested the data pipeline. The pipeline extracts data from multiple sources and creates four feature classes that show the locations of drinking water systems (e.g., wells and aquifers) in British Columbia, Canada.<br />
 
-Source datasets are stored in the British Columbia Geographic Warehouse (BCGW) and were accessed using a Webservice/API.<br />
-
-The script is set to run in Jenkins and automatically updates datasets in a data warehouse.<br />
+<br />
+Source datasets are stored in the British Columbia Geographic Warehouse (BCGW) and were accessed using a Webservice/API. The script is set to run in Jenkins and automatically updates datasets in the BCGW.<br />
 
 <h2>Languages Used</h2>
 
@@ -42,7 +41,7 @@ The screenshot below shows an example of the Select_Analysis tool and a simple S
 <br />
 
 <p align="center">
-Example of a simple select :  <br/>
+Example of a simple Select-by-Attribute process:  <br/>
 <img src="https://imgur.com/OtKIR9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
